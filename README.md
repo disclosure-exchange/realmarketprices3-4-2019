@@ -1,5 +1,5 @@
 # realmarketprices3-4-2019
-## Python code output 3-4-2019
+## Python code run results 3-4-2019
 
 top30.csv: list of the top 30 cryptocurrencies, marketcaps, real market prices
 
